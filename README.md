@@ -15,7 +15,8 @@ This list is a living artifact, which means the state of the issue, might not al
 
 I'll try to update this list as often as possible, if you want to stay up to date, click the button below.
 
-[![michalchudziak-tweet][michalchudziak-tweet]][michalchudziak-tweet]
+[![tweet][michalchudziak-tweet]][michalchudziak]
+
 
 ## Issues
 
@@ -134,3 +135,4 @@ Repo: https://github.com/react-native-community/react-native-tab-view
 [callstack]: https://callstack.com/open-source/?utm_source=github.com&utm_medium=referral&utm_campaign=linaria&utm_term=readme
 
 [michalchudziak-tweet]: https://img.shields.io/twitter/follow/michalchudziak.svg?color=%231DA1F2&label=Follow%20%40michalchudziak%20on%20Twitter&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAUCAYAAACXtf2DAAAAAXNSR0IArs4c6QAAAaRJREFUOBGtlM8rBGEYx3cWtRHJRaKcuMtBSitxkCQ3LtzkP9iUUu5ODspRHLhRLtq0FxeicEBC2cOivcge%252FMgan3fNM8bbzL4zm6c%252BPT%252Fe7%252FO8887svrFYBWbbtgWzsAt3sAcpqJFxxF1QV8oJFqFPFst5dLWQAT87oTgPB7DtziFRT1EA4yZolsFkhwjGYFRO8Op0KD8HVe7unoB6PRTBZG8IctAmG1xrHcfkQ2B55sfI%252ByGMXSBqV71xZ8CWdxBxN6ThFuECDEAL%252Bc9HIzDYumVZ966GZnX0SzCZvEqTbkaGywkyFE6hKAsBPhFQ18uPUqh2ggJ%252BUor%252F4M%252F%252FzOC8g6YzR1i%252F8g4vvSI%252ByD7FFNjexQrjHd8%252BnjABI3AU4Wl16TuF1qANGll81jsi5qu%252Bw6XIsCn4ijhU5FmCJpkV6BGNw410hfSf6JKBQ%252FUFxHGYBnWnmOwDwYQ%252BwzdHqO75HtiAMJfaC7ph32FSRJCENUhDHsLaJkL%252FX4wMF4%252BwA5bgAcrZE4sr0Cu9Jq9fxyrvBHWbNkMD5CEHWTjjT2m6r5D92jfmbbKJEWuMMAAAAABJRU5ErkJggg%253D%253D&style=flat-square
+[michalchudziak]: https://twitter.com/michalchudziak?ref_src=twsrc%5Etfw
