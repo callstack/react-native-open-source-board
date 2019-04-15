@@ -13,14 +13,9 @@ Every issue that lands on this list should be triaged and classified by the type
 
 This list is a living artifact, which means the state of the issue, might not always be up to date. It's an open source list, which means everyone can send a PR to remove or add issues.
 
-I'll try to update this list as often as possible. However, if you don't want to miss any updates, please follow me on Twitter:
-
-[![tweet][michalchudziak-tweet]][michalchudziak]
-
-
 ## Issues
 
-### react-native
+### `react-native`
 
 Repo: https://github.com/facebook/react-native
 
@@ -36,7 +31,7 @@ Repo: https://github.com/facebook/react-native
 - **[Android]** [View will lost background color when set borderRadius and height is large enough on Android device](https://github.com/facebook/react-native/issues/15826)
 - **[iOS]** [iOS: Multiple animations which use "useNativeDriver" do not work if preceded by a delay.](https://github.com/facebook/react-native/issues/18513)
 
-### @react-native-community/slider
+### `@react-native-community/slider`
 
 Repo: https://github.com/react-native-community/react-native-slider
 
@@ -51,7 +46,7 @@ Repo: https://github.com/react-native-community/react-native-slider
 - **[iOS]** [RCTSlider produces a line no matter even when all colors values match background color](https://github.com/react-native-community/react-native-slider/issues/10)
 - **[Android]** [ReactSlider crash on Android release version](https://github.com/react-native-community/react-native-slider/issues/9)
 
-### @react-native-community/geolocation
+### `@react-native-community/geolocation`
 
 Repo: https://github.com/react-native-community/react-native-geolocation
 
@@ -60,7 +55,7 @@ Repo: https://github.com/react-native-community/react-native-geolocation
 - **[JavaScript]** [Support web as target](https://github.com/react-native-community/react-native-geolocation)
 - **[iOS][Android]** [Add missing configuration options](https://github.com/react-native-community/react-native-geolocation/issues/11)
 
-### @react-native-community/cli
+### `@react-native-community/cli`
 
 Repo: https://github.com/react-native-community/cli
 
@@ -75,7 +70,7 @@ Repo: https://github.com/react-native-community/cli
 
 - **[JavaScript][iOS][Android]** [run-android|run-ios do not support RNTester out of the box](https://github.com/react-native-community/cli/issues/143)
 
-### @react-native-community/device-info
+### `@react-native-community/device-info`
 
 Repo: https://github.com/react-native-community/react-native-device-info
 
@@ -87,7 +82,7 @@ Repo: https://github.com/react-native-community/react-native-device-info
 
 - **[Android]** [getBuildNumber() returns string in iOS and number in Android](https://github.com/react-native-community/react-native-device-info/issues/214)
 
-### @react-native-community/async-storage
+### `@react-native-community/async-storage`
 
 Repo: https://github.com/react-native-community/react-native-async-storage
 
@@ -95,7 +90,7 @@ Repo: https://github.com/react-native-community/react-native-async-storage
 
 - **[Android]** [AsyncStorage Couldn't read row 0, col 0 from CursorWindow](https://github.com/react-native-community/react-native-async-storage/issues/10)
 
-### @react-native-community/maps
+### `@react-native-community/maps`
 
 Repo: https://github.com/react-native-community/react-native-maps
 
@@ -108,7 +103,7 @@ Repo: https://github.com/react-native-community/react-native-maps
 - **[iOS][Android]** [Get Map rotation](https://github.com/react-native-community/react-native-maps/issues/487)
 - **[iOS]** [Feature Request: Provide `onUserLocationChange` for use with MapKit (iOS)](https://github.com/react-native-community/react-native-maps/issues/2055)
 
-### @react-native-community/net-info
+### `@react-native-community/net-info`
 
 Repo: https://github.com/react-native-community/react-native-netinfo
 
@@ -117,7 +112,7 @@ Repo: https://github.com/react-native-community/react-native-netinfo
 - **[Android]** [Android: NetworkCallbackConnectivityReceiver does not report "none" status correctly](https://github.com/react-native-community/react-native-netinfo/issues/44)
 - **[Android]** [getConnectionInfo returns wrong info if network state changes while app is "sleeping" in background](https://github.com/react-native-community/react-native-netinfo/issues/32)
 
-### react-native-tab-view
+### `react-native-tab-view`
 
 Repo: https://github.com/react-native-community/react-native-tab-view
 
@@ -125,6 +120,14 @@ Repo: https://github.com/react-native-community/react-native-tab-view
 
 - **[JavaScript]** [RTL is not supported!](https://github.com/react-native-community/react-native-tab-view/issues/184)
 - **[JavaScript][Automation]** [Setup infra for testing with detox](https://github.com/react-native-community/react-native-tab-view/issues/469)
+
+## Contributors
+
+I'll try to update this list as often as possible. However, if you don't want to miss any updates, please follow me on Twitter:
+
+[![tweet][michalchudziak-tweet]][michalchudziak]
+
+However, if you want to add or remove some issues from the list, please submit a PR. Everyone is welcome to do so.
 
 
 <!-- badges -->
