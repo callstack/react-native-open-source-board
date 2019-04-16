@@ -25,7 +25,7 @@ Repo: https://github.com/facebook/react-native
 - **[JavaScript]** [Large Flatlist is not rendering all items](https://github.com/facebook/react-native/issues/15990)
 - **[JavaScript]** [Modal component does not support SafeAreaView bottom margin](https://github.com/facebook/react-native/issues/18177)
 - **[JavaScript]** [FlatList item onPress not work the first time after refreshed](https://github.com/facebook/react-native/issues/20011)
-- **[JavaScript]** [FlatList item onPress not work the first time after refreshed](https://github.com/facebook/react-native/issues/23578)
+- **[JavaScript]** [Can't modify text in TextInput onChangeText callback on Android](https://github.com/facebook/react-native/issues/23578)
 - **[JavaScript]** [Animated.Value does not have correct value after animation if component was re-mounted](https://github.com/facebook/react-native/issues/23712)
 - **[JavaScript][iOS][Android]** [Creating an instance of URL like: `new URL('http://facebook.com')` throws an exception.](https://github.com/facebook/react-native/issues/16434)
 - **[Android]** [View will lost background color when set borderRadius and height is large enough on Android device](https://github.com/facebook/react-native/issues/15826)
