@@ -19,107 +19,61 @@ This list is a living artifact, which means the state of the issue, might not al
 
 Repo: https://github.com/facebook/react-native
 
-#### Bugs 🐛
-
-- **[JavaScript]** [Image never reloads with same uri](https://github.com/facebook/react-native/issues/12606)
-- **[JavaScript]** [Large Flatlist is not rendering all items](https://github.com/facebook/react-native/issues/15990)
-- **[JavaScript]** [Modal component does not support SafeAreaView bottom margin](https://github.com/facebook/react-native/issues/18177)
-- **[JavaScript]** [FlatList item onPress not work the first time after refreshed](https://github.com/facebook/react-native/issues/20011)
-- **[JavaScript]** [FlatList item onPress not work the first time after refreshed](https://github.com/facebook/react-native/issues/23578)
-- **[JavaScript]** [Animated.Value does not have correct value after animation if component was re-mounted](https://github.com/facebook/react-native/issues/23712)
-- **[JavaScript][iOS][Android]** [Creating an instance of URL like: `new URL('http://facebook.com')` throws an exception.](https://github.com/facebook/react-native/issues/16434)
-- **[Android]** [View will lost background color when set borderRadius and height is large enough on Android device](https://github.com/facebook/react-native/issues/15826)
-- **[iOS]** [iOS: Multiple animations which use "useNativeDriver" do not work if preceded by a delay.](https://github.com/facebook/react-native/issues/18513)
+[Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-core%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
 ### `@react-native-community/slider`
 
 Repo: https://github.com/react-native-community/react-native-slider
 
-#### Features 🛠
+[Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-slider%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
-- **[Automation]** [Automate publishing with semantic-release](https://github.com/react-native-community/react-native-slider/issues/34)
-- **[JS][Automation]** [Write e2e tests with Detox](https://github.com/react-native-community/react-native-slider/issues/33)
-- **[iOS][Android]** [Multi-thumb option](https://github.com/react-native-community/react-native-slider/issues/25)
-
-#### Bugs 🐛
-
-- **[iOS]** [RCTSlider produces a line no matter even when all colors values match background color](https://github.com/react-native-community/react-native-slider/issues/10)
-- **[Android]** [ReactSlider crash on Android release version](https://github.com/react-native-community/react-native-slider/issues/9)
+[Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-slider%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
 ### `@react-native-community/geolocation`
 
 Repo: https://github.com/react-native-community/react-native-geolocation
 
-#### Features 🛠
-
-- **[JavaScript]** [Support web as target](https://github.com/react-native-community/react-native-geolocation)
-- **[iOS][Android]** [Add missing configuration options](https://github.com/react-native-community/react-native-geolocation/issues/11)
+[Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-geolocation%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
 ### `@react-native-community/cli`
 
 Repo: https://github.com/react-native-community/cli
 
-#### Features 🛠
+[Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+%5Breact-native-cli%5D+label%3A%22Feature+%F0%9F%9B%A0%22+)
 
-- **[JavaScript]** [Add verbose logging](https://github.com/react-native-community/cli/issues/96)
-- **[JavaScript]** [react-native init should have a folder option in addition to the current ProjectName one](https://github.com/react-native-community/cli/issues/110)
-- **[JavaScript]** [Show new version + upgrade help text in CLI](https://github.com/react-native-community/cli/issues/189)
-- **[JavaScript]** [run-android should also open default simulator, like run-ios](https://github.com/react-native-community/cli/issues/142)
-
-#### Bugs 🐛
-
-- **[JavaScript][iOS][Android]** [run-android|run-ios do not support RNTester out of the box](https://github.com/react-native-community/cli/issues/143)
+[Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-cli%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
 ### `@react-native-community/device-info`
 
 Repo: https://github.com/react-native-community/react-native-device-info
 
-#### Features 🛠
+[Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-device-info%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
-- **[iOS][Android]** [Sync relevant methods from Google-authored flutter device-info package](https://github.com/react-native-community/react-native-device-info/issues/622)
-
-#### Bugs 🐛
-
-- **[Android]** [getBuildNumber() returns string in iOS and number in Android](https://github.com/react-native-community/react-native-device-info/issues/214)
+[Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+%5Breact-native-device-info%5D+label%3A%22Bug+%F0%9F%90%9B%22+)
 
 ### `@react-native-community/async-storage`
 
 Repo: https://github.com/react-native-community/react-native-async-storage
 
-#### Bugs 🐛
-
-- **[Android]** [AsyncStorage Couldn't read row 0, col 0 from CursorWindow](https://github.com/react-native-community/react-native-async-storage/issues/10)
+[Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-async-storage%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
 ### `@react-native-community/maps`
 
 Repo: https://github.com/react-native-community/react-native-maps
 
-#### Features 🛠
-
-- **[JavaScript]** [[Feature Request] Allow loadTileAtPath prop for LocalTile](https://github.com/react-native-community/react-native-maps/issues/2007)
-- **[JavaScript]** [Add edgePadding to fitToElements also?](https://github.com/react-native-community/react-native-maps/issues/922)
-- **[iOS][Android]** [API for determining if user manually moved the map](https://github.com/react-native-community/react-native-maps/issues/2756)
-- **[iOS][Android]** [Feature reuest maxExtend & wrapDateLine](https://github.com/react-native-community/react-native-maps/issues/2043)
-- **[iOS][Android]** [Get Map rotation](https://github.com/react-native-community/react-native-maps/issues/487)
-- **[iOS]** [Feature Request: Provide `onUserLocationChange` for use with MapKit (iOS)](https://github.com/react-native-community/react-native-maps/issues/2055)
+[Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-maps%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
 ### `@react-native-community/net-info`
 
 Repo: https://github.com/react-native-community/react-native-netinfo
 
-#### Bugs 🐛
-
-- **[Android]** [Android: NetworkCallbackConnectivityReceiver does not report "none" status correctly](https://github.com/react-native-community/react-native-netinfo/issues/44)
-- **[Android]** [getConnectionInfo returns wrong info if network state changes while app is "sleeping" in background](https://github.com/react-native-community/react-native-netinfo/issues/32)
+[Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-net-info%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
 ### `react-native-tab-view`
 
 Repo: https://github.com/react-native-community/react-native-tab-view
 
-#### Features 🛠
-
-- **[JavaScript]** [RTL is not supported!](https://github.com/react-native-community/react-native-tab-view/issues/184)
-- **[JavaScript][Automation]** [Setup infra for testing with detox](https://github.com/react-native-community/react-native-tab-view/issues/469)
+[Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-tab-view%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
 ## Contributors
 
