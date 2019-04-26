@@ -75,7 +75,7 @@ Repo: https://github.com/react-native-community/react-native-tab-view
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-tab-view%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
-### `react-native-webwiew`
+### `react-native-webview`
 
 Repo: https://github.com/react-native-community/react-native-webview
 
