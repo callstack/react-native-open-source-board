@@ -35,6 +35,8 @@ Repo: https://github.com/react-native-community/react-native-geolocation
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-geolocation%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
+[Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+%5Breact-native-geolocation%5D+label%3A%22Bug+%F0%9F%90%9B%22+)
+
 ### `@react-native-community/cli`
 
 Repo: https://github.com/react-native-community/cli
