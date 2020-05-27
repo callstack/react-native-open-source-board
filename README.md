@@ -17,13 +17,13 @@ This list is a living artifact, which means the state of the issue, might not al
 
 ### `react-native`
 
-Repo: https://github.com/facebook/react-native
+Repo: <https://github.com/facebook/react-native>
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-core%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
 ### `@react-native-community/slider`
 
-Repo: https://github.com/react-native-community/react-native-slider
+Repo: <https://github.com/react-native-community/react-native-slider>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-slider%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -31,7 +31,7 @@ Repo: https://github.com/react-native-community/react-native-slider
 
 ### `@react-native-community/geolocation`
 
-Repo: https://github.com/react-native-community/react-native-geolocation
+Repo: <https://github.com/react-native-community/react-native-geolocation>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-geolocation%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -39,7 +39,7 @@ Repo: https://github.com/react-native-community/react-native-geolocation
 
 ### `@react-native-community/cli`
 
-Repo: https://github.com/react-native-community/cli
+Repo: <https://github.com/react-native-community/cli>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+%5Breact-native-cli%5D+label%3A%22Feature+%F0%9F%9B%A0%22+)
 
@@ -47,7 +47,7 @@ Repo: https://github.com/react-native-community/cli
 
 ### `@react-native-community/device-info`
 
-Repo: https://github.com/react-native-community/react-native-device-info
+Repo: <https://github.com/react-native-community/react-native-device-info>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-device-info%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -55,7 +55,7 @@ Repo: https://github.com/react-native-community/react-native-device-info
 
 ### `@react-native-community/async-storage`
 
-Repo: https://github.com/react-native-community/react-native-async-storage
+Repo: <https://github.com/react-native-community/react-native-async-storage>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-async-storage%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -63,7 +63,7 @@ Repo: https://github.com/react-native-community/react-native-async-storage
 
 ### `@react-native-community/maps`
 
-Repo: https://github.com/react-native-community/react-native-maps
+Repo: <https://github.com/react-native-community/react-native-maps>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-maps%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -71,7 +71,7 @@ Repo: https://github.com/react-native-community/react-native-maps
 
 ### `@react-native-community/net-info`
 
-Repo: https://github.com/react-native-community/react-native-netinfo
+Repo: <https://github.com/react-native-community/react-native-netinfo>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+%5Breact-native-net-info%5D+label%3A%22Feature+%F0%9F%9B%A0%22+)
 
@@ -79,7 +79,7 @@ Repo: https://github.com/react-native-community/react-native-netinfo
 
 ### `@react-native-community/react-native-tab-view`
 
-Repo: https://github.com/react-native-community/react-native-tab-view
+Repo: <https://github.com/react-native-community/react-native-tab-view>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-tab-view%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -87,7 +87,7 @@ Repo: https://github.com/react-native-community/react-native-tab-view
 
 ### `@react-native-community/react-native-webview`
 
-Repo: https://github.com/react-native-community/react-native-webview
+Repo: <https://github.com/react-native-community/react-native-webview>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-webview%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -95,7 +95,7 @@ Repo: https://github.com/react-native-community/react-native-webview
 
 ### `@react-native-community/react-native-image-editor`
 
-Repo: https://github.com/react-native-community/react-native-image-editor
+Repo: <https://github.com/react-native-community/react-native-image-editor>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-image-editor%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -103,7 +103,7 @@ Repo: https://github.com/react-native-community/react-native-image-editor
 
 ### `@react-native-community/react-native-svg`
 
-Repo: https://github.com/react-native-community/react-native-svg
+Repo: <https://github.com/react-native-community/react-native-svg>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-svg%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -111,7 +111,7 @@ Repo: https://github.com/react-native-community/react-native-svg
 
 ### `@react-native-community/react-native-camera`
 
-Repo: https://github.com/react-native-community/react-native-camera
+Repo: <https://github.com/react-native-community/react-native-camera>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-camera%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -119,7 +119,7 @@ Repo: https://github.com/react-native-community/react-native-camera
 
 ### `@react-native-community/react-native-video`
 
-Repo: https://github.com/react-native-community/react-native-video
+Repo: <https://github.com/react-native-community/react-native-video>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-video%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -127,7 +127,7 @@ Repo: https://github.com/react-native-community/react-native-video
 
 ### `@react-native-community/react-native-share`
 
-Repo: https://github.com/react-native-community/react-native-share
+Repo: <https://github.com/react-native-community/react-native-share>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-share%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -135,23 +135,15 @@ Repo: https://github.com/react-native-community/react-native-share
 
 ### `@react-native-community/react-native-modal`
 
-Repo: https://github.com/react-native-community/react-native-modal
+Repo: <https://github.com/react-native-community/react-native-modal>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-modal%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-modal%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `@react-native-community/cli`
-
-Repo: https://github.com/react-native-community/cli
-
-[Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Bcli%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
-
-[Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Bcli%5D+label%3A%22Bug+%F0%9F%90%9B%22)
-
 ### `@react-native-community/google-signin`
 
-Repo: https://github.com/react-native-community/google-signin
+Repo: <https://github.com/react-native-community/google-signin>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Bgoogle-signin%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -159,7 +151,7 @@ Repo: https://github.com/react-native-community/google-signin
 
 ### `@react-native-community/react-native-viewpager`
 
-Repo: https://github.com/react-native-community/react-native-viewpager
+Repo: <https://github.com/react-native-community/react-native-viewpager>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-viewpager%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -167,7 +159,7 @@ Repo: https://github.com/react-native-community/react-native-viewpager
 
 ### `@react-native-community/react-native-slider`
 
-Repo: https://github.com/react-native-community/react-native-slider
+Repo: <https://github.com/react-native-community/react-native-slider>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-slider%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -175,7 +167,7 @@ Repo: https://github.com/react-native-community/react-native-slider
 
 ### `@react-native-community/react-native-cameraroll`
 
-Repo: https://github.com/react-native-community/react-native-cameraroll
+Repo: <https://github.com/react-native-community/react-native-cameraroll>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-cameraroll%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
@@ -183,7 +175,7 @@ Repo: https://github.com/react-native-community/react-native-cameraroll
 
 ### `@react-native-community/push-notification-ios`
 
-Repo: https://github.com/react-native-community/push-notification-ios
+Repo: <https://github.com/react-native-community/push-notification-ios>
 
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Bpush-notification-ios%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
