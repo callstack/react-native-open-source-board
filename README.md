@@ -77,7 +77,7 @@ Repo: https://github.com/react-native-community/react-native-netinfo
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-net-info%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-tab-view`
+### `@react-native-community/react-native-tab-view`
 
 Repo: https://github.com/react-native-community/react-native-tab-view
 
@@ -85,7 +85,7 @@ Repo: https://github.com/react-native-community/react-native-tab-view
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+%5Breact-native-tab-view%5D+label%3A%22Bug+%F0%9F%90%9B%22++)
 
-### `react-native-webview`
+### `@react-native-community/react-native-webview`
 
 Repo: https://github.com/react-native-community/react-native-webview
 
@@ -93,7 +93,7 @@ Repo: https://github.com/react-native-community/react-native-webview
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-webview%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-image-editor`
+### `@react-native-community/react-native-image-editor`
 
 Repo: https://github.com/react-native-community/react-native-image-editor
 
@@ -101,7 +101,7 @@ Repo: https://github.com/react-native-community/react-native-image-editor
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-image-editor%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-svg`
+### `@react-native-community/react-native-svg`
 
 Repo: https://github.com/react-native-community/react-native-svg
 
@@ -109,7 +109,7 @@ Repo: https://github.com/react-native-community/react-native-svg
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-svg%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-camera`
+### `@react-native-community/react-native-camera`
 
 Repo: https://github.com/react-native-community/react-native-camera
 
@@ -117,7 +117,7 @@ Repo: https://github.com/react-native-community/react-native-camera
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-camera%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-video`
+### `@react-native-community/react-native-video`
 
 Repo: https://github.com/react-native-community/react-native-video
 
@@ -125,7 +125,7 @@ Repo: https://github.com/react-native-community/react-native-video
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-video%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-share`
+### `@react-native-community/react-native-share`
 
 Repo: https://github.com/react-native-community/react-native-share
 
@@ -133,7 +133,7 @@ Repo: https://github.com/react-native-community/react-native-share
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-share%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-modal`
+### `@react-native-community/react-native-modal`
 
 Repo: https://github.com/react-native-community/react-native-modal
 
@@ -141,7 +141,7 @@ Repo: https://github.com/react-native-community/react-native-modal
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-modal%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `cli`
+### `@react-native-community/cli`
 
 Repo: https://github.com/react-native-community/cli
 
@@ -149,7 +149,7 @@ Repo: https://github.com/react-native-community/cli
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Bcli%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `google-signin`
+### `@react-native-community/google-signin`
 
 Repo: https://github.com/react-native-community/google-signin
 
@@ -157,7 +157,7 @@ Repo: https://github.com/react-native-community/google-signin
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Bgoogle-signin%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-viewpager`
+### `@react-native-community/react-native-viewpager`
 
 Repo: https://github.com/react-native-community/react-native-viewpager
 
@@ -165,7 +165,7 @@ Repo: https://github.com/react-native-community/react-native-viewpager
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-viewpager%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-slider`
+### `@react-native-community/react-native-slider`
 
 Repo: https://github.com/react-native-community/react-native-slider
 
@@ -173,7 +173,7 @@ Repo: https://github.com/react-native-community/react-native-slider
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-slider%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `react-native-cameraroll`
+### `@react-native-community/react-native-cameraroll`
 
 Repo: https://github.com/react-native-community/react-native-cameraroll
 
@@ -181,7 +181,7 @@ Repo: https://github.com/react-native-community/react-native-cameraroll
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-cameraroll%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `push-notification-ios`
+### `@react-native-community/push-notification-ios`
 
 Repo: https://github.com/react-native-community/push-notification-ios
 
