@@ -21,7 +21,7 @@ Repo: <https://github.com/facebook/react-native>
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-core%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
-### `@react-native-community/slider`
+### `@react-native-community/react-native-slider`
 
 Repo: <https://github.com/react-native-community/react-native-slider>
 
@@ -156,14 +156,6 @@ Repo: <https://github.com/react-native-community/react-native-viewpager>
 [Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-viewpager%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
 
 [Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-viewpager%5D+label%3A%22Bug+%F0%9F%90%9B%22)
-
-### `@react-native-community/react-native-slider`
-
-Repo: <https://github.com/react-native-community/react-native-slider>
-
-[Features 🛠](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-slider%5D+label%3A%22Feature+%F0%9F%9B%A0%22)
-
-[Bugs 🐛](https://github.com/callstack/react-native-open-source-board/issues?q=is%3Aissue+is%3Aopen+%5Breact-native-slider%5D+label%3A%22Bug+%F0%9F%90%9B%22)
 
 ### `@react-native-community/react-native-cameraroll`
 
